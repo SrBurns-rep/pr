@@ -10,18 +10,6 @@ This project defines a **Priority System** that evaluates expressions and manage
 * **Error Handling:** Includes error tracking within node pools to detect and manage issues during node operations.
 * **Streamlined Memory Management:** Allocates pools from which it picks the needed objects.
 
-## Installation
-1. **Clone this repository:**
-```sh
-git clone <repository-url>
-cd <repository-directory>
-```
-
-2. **Build the project:**
-```sh
-./build.sh
-```
-
 ## Usage
 **Initializing Pools:**
 ```c
