@@ -1,0 +1,7 @@
+[module]
+name = "pr"
+version = "1.0"
+description = "Priority rule system"
+readme = "README.md"
+C_version = "C11"
+dependencies = []
