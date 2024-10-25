@@ -8,7 +8,7 @@ This project defines a **Priority System** that evaluates expressions and manage
 * **Efficient Rule Sorting:** Implements a quicksort algorithm to sort rules by priority.
 * **Boolean Expression Handling:** Supports a range of boolean and comparison operations (`AND`, `OR`, `NOT`, `GT`, `EQ`, etc.).
 * **Error Handling:** Includes error tracking within node pools to detect and manage issues during node operations.
-* **Streamlined Memory Management:** Alocates pools from which it picks the needed objects.
+* **Streamlined Memory Management:** Allocates pools from which it picks the needed objects.
 
 ## Installation
 1. **Clone this repository:**
